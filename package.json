@@ -1,0 +1,23 @@
+{
+  "name": "ajs-platforms-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozkostay/ajs-platforms-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozkostay/ajs-platforms-node/issues"
+  },
+  "homepage": "https://github.com/ozkostay/ajs-platforms-node#readme",
+  "dependencies": {
+    "@ozkostay/ajs-platforms": "^1.0.0"
+  }
+}
